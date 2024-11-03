@@ -8,3 +8,5 @@ This is my first hackathon where i gained knowledge in working with html and oth
 # SmartEdu SIH'23
 ## Problem Statement
 Making career choices and AI based counselling accessible to every child at secondary level along with aptitude tests and detailed career paths.
+## Output
+![image](https://github.com/user-attachments/assets/af28e469-f480-4fe8-993d-c8d39aacbf69)
